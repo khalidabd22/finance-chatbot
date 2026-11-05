@@ -1,0 +1,19 @@
+date,description,category,type,amount
+2026-09-01,Salary,Salary,Income,65000
+2026-09-02,House Rent,Rent,Expense,18000
+2026-09-05,Big Basket,Groceries,Expense,4200
+2026-09-08,Electricity Bill,Utilities,Expense,1850
+2026-09-12,Swiggy,Food & Dining,Expense,1350
+2026-09-15,SIP Mutual Fund,Investment,Expense,10000
+2026-09-20,Petrol,Transport,Expense,2600
+2026-09-25,Movie Tickets,Entertainment,Expense,900
+2026-10-01,Salary,Salary,Income,65000
+2026-10-02,House Rent,Rent,Expense,18000
+2026-10-04,Freelance Project,Freelance,Income,12000
+2026-10-06,DMart,Groceries,Expense,5100
+2026-10-09,Mobile Recharge,Utilities,Expense,599
+2026-10-14,Zomato,Food & Dining,Expense,2200
+2026-10-15,SIP Mutual Fund,Investment,Expense,10000
+2026-10-18,Amazon Shopping,Shopping,Expense,6800
+2026-10-22,Uber,Transport,Expense,1450
+2026-10-28,Doctor Visit,Health,Expense,1200
